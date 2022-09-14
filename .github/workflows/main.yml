@@ -1,4 +1,4 @@
-name: Verademo Scanning Example Github
+name: Basic Maven Build (Java app)
 
 on:
   workflow_dispatch:
